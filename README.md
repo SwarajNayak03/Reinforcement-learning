@@ -1,3 +1,3 @@
-# Reniforcement-learning
+# Reinforcement-learning
 
 SwarajNayak21csu451
